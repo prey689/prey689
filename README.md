@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Langages & Tools
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/TON_ID_DISCORD)](https://discord.com/users/1054794416621109390)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)

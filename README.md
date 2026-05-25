@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Noé ⚡
+# 💢 Λ𝐑𝐂𝐀𝐍ø𝐒 💢
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Pentester+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%A5;Python+%7C+C%2B%2B+%7C+Web+Dev;Future+Engineer+%F0%9F%9A%80" />
 
@@ -27,7 +27,6 @@
 # 🌌 Operating Systems
 
 <p align="center">
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1054794416621109390?waveColor=FF0000&clanbg=0D0D0D&bg=000000&imgBorderRadius=15px&showBanner=animated&forceGradient=false&theme=dark&borderRadius=15px&waveSpotifyColor=FF0000&bannerFilter=brightness(0.8)%20blur(0.3))](https://discord.com/users/1054794416621109390)
 
 <img src="https://skillicons.dev/icons?i=kali" />
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
@@ -61,18 +60,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TONPSEUDOGITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONPSEUDOGITHUB&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🐍 Contributions Snake
 
 <div align="center">
@@ -87,11 +74,11 @@
 
 <p align="center">
 
-<a href="https://github.com/TONPSEUDOGITHUB">
+<a href="https://github.com/prey689">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/TON_ID_DISCORD">
+<a href="https://discord.com/users/1054794416621109390">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 

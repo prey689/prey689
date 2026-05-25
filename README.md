@@ -14,9 +14,7 @@
 ---
 
 ## 🛠️ Langages & Tools
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1054794416621109390?theme=dark&bg=000000&animated=true" />
-</p>
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1054794416621109390?waveColor=000000&clanbg=000000&bg=000000&imgBorderRadius=15px&showBanner=animated&forceGradient=false&theme=dark&borderRadius=15px&waveSpotifyColor=FF0000&bannerFilter=brightness(0.8)%20blur(0.3))](https://discord.com/users/1054794416621109390)
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)

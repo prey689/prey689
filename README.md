@@ -27,6 +27,7 @@
 # 🌌 Operating Systems
 
 <p align="center">
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1054794416621109390?waveColor=FF0000&clanbg=0D0D0D&bg=000000&imgBorderRadius=15px&showBanner=animated&forceGradient=false&theme=dark&borderRadius=15px&waveSpotifyColor=FF0000&bannerFilter=brightness(0.8)%20blur(0.3))](https://discord.com/users/1054794416621109390)
 
 <img src="https://skillicons.dev/icons?i=kali" />
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" />

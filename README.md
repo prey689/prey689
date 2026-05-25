@@ -88,6 +88,6 @@
 
 <div align="center">
 
-### ⚡ "Eat. Sleep. Linux. Repeat." ⚡
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1054794416621109390?hideSpotify=true&hideDiscrim=false&theme=dark&imgStyle=circle&hideNameplate=false&hideBadges=false&hideActivity=true&forceGradient=false&showDisplayName=true&animatedDecoration=false&hideDecoration=true&hideClan=false&hideProfile=false&hideStatus=true&hideTimestamp=false&bg=000000&clanbg=000000&idleMessage=pentester)](https://discord.com/users/1054794416621109390)
 
 </div>

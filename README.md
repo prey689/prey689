@@ -2,7 +2,7 @@
 
 # ⚡ Noé ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Linux+Enthusiast+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%A5;Python+%7C+C%2B%2B+%7C+Web+Dev;Future+Engineer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Pentester+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%A5;Python+%7C+C%2B%2B+%7C+Web+Dev;Future+Engineer+%F0%9F%9A%80" />
 
 <img src="https://lanyard.cnrad.dev/api/TON_ID_DISCORD?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12px" />
 
@@ -15,11 +15,11 @@
 ```bash
 > whoami
 
-👨‍💻 Passionné d'informatique
-🐧 Linux user
-⚡ Intéressé par la cybersécurité
-🚀 Apprend Python, C++, HTML/CSS et le pentest
-🎯 Objectif : devenir ingénieur informatique
+👨‍💻 Developper python
+🐧 Linux user | Kali Lunux
+⚡ Pentester
+🚀 Python, HTML, CSS
+🎯 Futur pentester
 ```
 
 ---

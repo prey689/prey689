@@ -10,7 +10,7 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
 ```bash
 > whoami
@@ -24,7 +24,7 @@
 
 ---
 
-# 🌌 Operating Systems
+# Operating Systems used
 
 <p align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-# 💻 Languages & Tools
+# Languages & Tools
 
 <p align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-# ⚔️ Cybersecurity Tools
+# Cybersecurity Tools
 
 <p align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-# 🐍 Contributions Snake
+# Contributions Snake
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Contact me
 
 <p align="center">
 
